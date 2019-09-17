@@ -5,7 +5,7 @@
 ## Table of Contents
 * [2.1 VNFs Collateral.](#2.1)
 * [2.2 Analysis.](#2.2)
-* [2.3 NFVI Profiles.](#2.3)
+* [2.3 NFVI Profiles.](#2.3) 
 
 The NFV Infrastructure (NFVI) is the totality of all hardware and software components which build up the environment in which VNFs/VAs are deployed, managed and executed. It is, therefore, inevitable that different VNFs/VAs would require different capabilities and have different expectations from it.
 
